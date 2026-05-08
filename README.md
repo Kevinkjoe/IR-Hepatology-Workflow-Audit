@@ -180,6 +180,10 @@ IR-Hepatology-Workflow-Audit/
 ```
 
 ---
+## Data Availability
+
+Raw operational datasets are not publicly shared to maintain confidentiality and responsible handling of healthcare workflow data.
+---
 
 ## References
 
